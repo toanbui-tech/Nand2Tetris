@@ -50,4 +50,22 @@ Nhưng...
 
 Đó chính là nội dung của khóa học **Nand to Tetris**.
 ## Practice
+### Logic gates
+#### Elementary gates (Nand, And, Or, Not, ...)
+![](../public/lecture1-partice-logicgate-elementarygate.png)
+
+#### Vì sao tập trung vào những cổng logic này?
+
+- Vì **{NAND}** hoặc **{AND, OR, NOT}** (cũng như một số tập con khác của các toán tử Boolean)  
+  **đủ để biểu diễn bất kỳ hàm Boolean nào**.
+- Vì các cổng này **có cách triển khai phần cứng trực tiếp và hiệu quả**.
+![](../public/lecture1-partice-logicgate-elementarygate-33-1.png)
+Triển khai mạch (mang tính khái niệm):
+![](../public/lecture1-partice-logicgate-elementarygate-33-2.png)
+![](../public/lecture1-partice-logicgate-elementarygate-35-1.png)
+
+- Khóa học này **không bàn về các triển khai vật lý**  
+- (mạch điện, transistor, ... đó là lĩnh vực **Điện – Điện tử (EE)**, không phải **Khoa học Máy tính (CS)**)  
+- Chúng ta sẽ **tập trung vào các triển khai ở mức logic**.
+# Đã học tới 35/103 (Xóa dòng này khi vào học lần tới)
 ## Project 1
