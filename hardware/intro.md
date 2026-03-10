@@ -122,7 +122,7 @@ Nhận xét này phản ánh một nguyên lý cơ bản của khoa học máy t
 
 > Ở tầng bản chất nhất, **mọi máy tính đều tương đương về khả năng tính toán**.
 
-![Hình I.1](public/1.1.png)
+![](../public/intro.png)
 
 Hình I.1: Các mô-đun chính của một hệ thống máy tính điển hình, bao gồm một **nền tảng phần cứng (hardware platform)** và một **hệ phân cấp phần mềm (software hierarchy)**.
 
